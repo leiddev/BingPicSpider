@@ -106,4 +106,4 @@ venv.bak/
 *.jpg
 Thumbs.db
 *.txt
-/bing_pic
+bing_pic/
